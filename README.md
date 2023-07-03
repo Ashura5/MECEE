@@ -3,7 +3,7 @@ Multi-round Error Correction with Ensemble Enhancement
 ## Data Description ##
 
 | 文件名     | 内容 |每一行数据格式|行数|
-| ----------- | ----------- |
+| ----------- | ----------- |----------- |----------- |
 | train_no_Aug.src      | 从数据集中得到的训练数据      |**id**\t**句子**|1000235|
 | train_no_Aug.trg     | 从数据集中得到的标记数据      |**id**\t**句子**|1000235|
 | train_Aug.src      | 从数据集中得到的训练数据和我们的增强数据       |**id**\t**句子**|1490918|
