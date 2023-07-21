@@ -2,16 +2,16 @@
 ## Multi-round Error Correction with Ensemble Enhancement ##
 这是Towards Robust Chinese Spelling Check Systems: Multi-round Error Correction with Ensemble Enhancement的代码仓库  
 论文的Preprint版本可以在以下链接中进行查看  
-[Towards Robust Chinese Spelling Check Systems: Multi-round Error Correction with Ensemble Enhancement](https://drive.google.com/file/d/1DZOZfUwnaTmQrpv7TUgDgtX0Ga6cdvbB/view?usp=sharing)
+[Towards Robust Chinese Spelling Check Systems: Multi-round Error Correction with Ensemble Enhancement](https://drive.google.com/file/d/1DZOZfUwnaTmQrpv7TUgDgtX0Ga6cdvbB/view?usp=sharing)  
 如果您发现这项工作对您的研究有用，请引用我们的论文：
-> @article{X. Li et al.2023Multi-round Error Correction with Ensemble Enhancement,
-title={Towards Robust Chinese Spelling Check Systems: Multi-round Error Correction with Ensemble Enhancement},
-author={Xiang Li and Hanyue Du and Yike Zhao and Yunshi Lan},
-journal={NLPCC 2023},
-volume={-},
-number={-},
-pages={-},
-year={2023}
+> @article{X. Li et al.2023Multi-round Error Correction with Ensemble Enhancement,  
+title={Towards Robust Chinese Spelling Check Systems: Multi-round Error Correction with Ensemble Enhancement},  
+author={Xiang Li and Hanyue Du and Yike Zhao and Yunshi Lan},  
+journal={NLPCC 2023},  
+volume={-},   
+number={-},  
+pages={-},  
+year={2023}  
 }
 
 ## Data Description ##
